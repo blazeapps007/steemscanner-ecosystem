@@ -33,12 +33,77 @@
       "name": "UPEX",
       "managedBy": "@xpilar, @blaze.apps",
       "urls": {
-        "website": "https://steemscanner.con/account/upex",
-        "app": "https://steemscanner.con/account/upex"
+        "website": "https://steemscanner.con/accounts/upex",
+        "app": "https://steemscanner.con/accounts/upex"
       },
-      "imageUrl": "https://cdn.steemitimages.com/DQmXoFiUseV4R64ZNwZz6f2yDUoWVKZs99Tb2RF88oyDYB2/test%20med%20sk%C3%A5l%20logo.png",
-      "about": "UPEX is a delegation and earning service on Steem that offers one daily upvote against your delegation or pays liquid rewards with APR exceeding 14%. UPEX also acts as a liquid rewards gateway, allowing users to receive all post and comment rewards in liquid STEEM by setting UPEX as a beneficiary.",
-      "tags": ["delegation", "rewards", "apr", "curation", "liquid-steem"],
+      "imageUrl": "https://steemscanner.com/steem-steem-logo.png",
+      "about": "UPEX is a delegation and earning service on Steem that provides one daily upvote per delegation or liquid payouts exceeding 14% APR. It also acts as a liquid rewards gateway, allowing users to receive all post and comment rewards in liquid STEEM by setting UPEX as a beneficiary.",
+      "tags": ["delegation", "rewards", "apr", "liquid-steem", "curation"],
+      "status": "active"
+    },
+    {
+      "id": "hariraid",
+      "name": "Hari Raid",
+      "managedBy": "@h4lab",
+      "urls": {
+        "website": "https://hari-raid.h4lab.com/lobby",
+        "app": "https://hari-raid.h4lab.com/lobby"
+      },
+      "imageUrl": "https://cdn.steemitimages.com/DQmb1eNzsAKcYssyH5ZyRZcfosrLvLAnvuMQC4STchjsGxj/Logo.jpg",
+      "about": "Hari Raid is a tap-to-earn boss raid game on the Steem blockchain where players summon random cards per battle, compete for a weekly 300 STEEM prize pool, and earn special rewards through Frenzy Mode and final blow mechanics.",
+      "tags": ["gaming", "tap-to-earn", "raids", "cards", "rewards"],
+      "status": "active"
+    },
+    {
+      "id": "steemdex",
+      "name": "SteemDex",
+      "managedBy": "@steemfy",
+      "urls": {
+        "website": "https://steemdex.com",
+        "app": "https://steemdex.com"
+      },
+      "imageUrl": "https://steemitimages.com/u/steemfy/avatar",
+      "about": "SteemDex is a spot trading platform for the internal STEEM market, offering zero-fee internal trades, STEEM/SBD spot trading, and cross-chain swaps.",
+      "tags": ["exchange", "dex", "trading", "steem", "sbd"],
+      "status": "active"
+    },
+    {
+      "id": "bingo-worldofxpilar",
+      "name": "World of Xpilar Bingo",
+      "managedBy": "@xpilar",
+      "urls": {
+        "website": "https://bingo.worldofxpilar.com/index.html",
+        "app": "https://bingo.worldofxpilar.com/index.html"
+      },
+      "imageUrl": "https://steemitimages.com/u/xpilar/avatar",
+      "about": "World of Xpilar Bingo brings classic bingo gameplay to the Steem blockchain, combining fair gaming mechanics with STEEM-based rewards.",
+      "tags": ["gaming", "bingo", "community", "rewards"],
+      "status": "active"
+    },
+    {
+      "id": "steemworld",
+      "name": "SteemWorld",
+      "managedBy": "@steemchiller",
+      "urls": {
+        "website": "https://steemworld.org",
+        "app": "https://steemworld.org"
+      },
+      "imageUrl": "https://steemitimages.com/u/steemchiller/avatar",
+      "about": "SteemWorld is a comprehensive account management and blockchain interaction platform, providing dashboards for voting, delegations, and witness management.",
+      "tags": ["account-management", "dashboard", "delegations", "voting"],
+      "status": "active"
+    },
+    {
+      "id": "h4lab",
+      "name": "H4Lab",
+      "managedBy": "@h4lab",
+      "urls": {
+        "website": "https://h4lab.com",
+        "app": "https://h4lab.com"
+      },
+      "imageUrl": "https://steemitimages.com/u/h4lab/avatar",
+      "about": "H4Lab is the official platform by @h4lab, providing real-time blockchain statistics, financial research tools, and advanced article search capabilities for the Steem ecosystem.",
+      "tags": ["analytics", "research", "visualization", "stats"],
       "status": "active"
     }
   ]
