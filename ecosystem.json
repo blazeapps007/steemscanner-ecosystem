@@ -14,6 +14,19 @@
       "about": "Steem Scanner is a modern and user-friendly explorer for the Steem blockchain. It is developed and managed by Blaze Apps.",
       "tags": ["explorer", "analytics", "blockchain"],
       "status": "active"
+    },
+    {
+      "id": "autoblaze",
+      "name": "Autoblaze",
+      "managedBy": "@blaze.apps",
+      "urls": {
+        "website": "https://autoblaze.xyz",
+        "app": "https://autoblaze.xyz"
+      },
+      "imageUrl": "https://steemscanner.com/steem-steem-logo.png",
+      "about": "Autoblaze is an automation platform for the Steem ecosystem, offering fanbase voting, post scheduling, intelligent curation, and reward-boosting tools.",
+      "tags": ["automation", "curation", "voting", "productivity"],
+      "status": "active"
     }
   ]
 }
