@@ -36,7 +36,7 @@
         "website": "https://steemscanner.con/account/upex",
         "app": "https://steemscanner.con/account/upex"
       },
-      "imageUrl": "https://steemscanner.com/steem-steem-logo.png",
+      "imageUrl": "https://steemitimages.com/u/upex/avatar",
       "about": "UPEX is a delegation and earning service on Steem that provides one daily upvote per delegation or liquid payouts exceeding 14% APR. It also acts as a liquid rewards gateway, allowing users to receive all post and comment rewards in liquid STEEM by setting UPEX as a beneficiary.",
       "tags": ["delegation", "rewards", "apr", "liquid-steem", "curation"],
       "status": "active"
