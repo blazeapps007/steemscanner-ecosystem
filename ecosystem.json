@@ -1,0 +1,19 @@
+{
+  "ecosystem": "steem",
+  "version": "1.0",
+  "applications": [
+    {
+      "id": "steem-scanner",
+      "name": "Steem Scanner",
+      "managedBy": "@blaze.apps",
+      "urls": {
+        "website": "https://steemscanner.com",
+        "app": "https://steemscanner.com"
+      },
+      "imageUrl": "https://steemscanner.com/assets/logo.png",
+      "about": "Steem Scanner is a modern and user-friendly explorer for the Steem blockchain. It is developed and managed by Blaze Apps.",
+      "tags": ["explorer", "analytics", "blockchain"],
+      "status": "active"
+    }
+  ]
+}
