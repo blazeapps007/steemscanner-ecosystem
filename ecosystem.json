@@ -27,6 +27,19 @@
       "about": "Autoblaze is an automation platform for the Steem ecosystem, offering fanbase voting, post scheduling, intelligent curation, and reward-boosting tools.",
       "tags": ["automation", "curation", "voting", "productivity"],
       "status": "active"
+    },
+    {
+      "id": "upex",
+      "name": "UPEX",
+      "managedBy": "@xpilar, @blaze.apps",
+      "urls": {
+        "website": "https://steemscanner.con/accounts/upex",
+        "app": "https://steemscanner.con/accounts/upex"
+      },
+      "imageUrl": "https://steemscanner.com/steem-steem-logo.png",
+      "about": "UPEX is a delegation and earning service on Steem that offers one daily upvote against your delegation or pays liquid rewards with APR exceeding 14%. UPEX also acts as a liquid rewards gateway, allowing users to receive all post and comment rewards in liquid STEEM by setting UPEX as a beneficiary.",
+      "tags": ["delegation", "rewards", "apr", "curation", "liquid-steem"],
+      "status": "active"
     }
   ]
 }
