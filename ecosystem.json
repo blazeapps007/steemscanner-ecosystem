@@ -102,7 +102,7 @@
         "app": "https://maze.steemblocks.com/"
       },
       "imageUrl": "https://raw.githubusercontent.com/Steemblocks/SteemMaze/refs/heads/main/public/logo.png",
-      "about": "SteemMaze is an interactive maze game built on the Steem blockchain, offering gameplay and blockchain integration for the Steem community.",
+      "about": "SteemMaze is an interactive 3D maze built on the Steem blockchain, offering gameplay and blockchain integration for the Steem community.",
       "tags": ["gaming", "maze", "interactive"],
       "status": "active"
     },
