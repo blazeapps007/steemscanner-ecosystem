@@ -42,6 +42,71 @@
       "status": "active"
     },
     {
+      "id": "steem-wallet-desktop",
+      "name": "Steem Wallet Desktop",
+      "managedBy": "@dhaka.witness",
+      "urls": {
+        "website": "https://github.com/Steemblocks/Steem-Wallet-Desktop",
+        "app": "https://github.com/Steemblocks/Steem-Wallet-Desktop/releases"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/Steemblocks/Steem-Wallet-Desktop/refs/heads/master/public/steem-logo.png",
+      "about": "A secure, cross-platform desktop wallet for the Steem blockchain built with Tauri, React, and Rust.",
+      "tags": ["wallet", "desktop", "asset-management"],
+      "status": "active"
+    },
+    {
+      "id": "steemblocks-v5",
+      "name": "Steemblocks v5",
+      "managedBy": "@dhaka.witness",
+      "urls": {
+        "website": "https://steemblocks.com/",
+        "app": "https://steemblocks.com/"
+      },
+      "imageUrl": "https://steemitimages.com/u/dhaka.witness/avatar",
+      "about": "A comprehensive blockchain explorer and analytics platform for the Steem blockchain, featuring real-time data visualization, cryptocurrency market tracking, and advanced search capabilities.",
+      "tags": ["explorer", "analytics", "crypto-market", "blockchain"],
+      "status": "active"
+    },
+    {
+      "id": "steem-burn-pool",
+      "name": "Steem Burn Pool",
+      "managedBy": "@steemburnpool",
+      "urls": {
+        "website": "https://burn.steemblocks.com/",
+        "app": "https://burn.steemblocks.com/"
+      },
+      "imageUrl": "https://steemitimages.com/u/steemburnpool/avatar",
+      "about": "Steem Burn Pool is a community-driven platform for burning STEEM tokens and participating in the Steem ecosystem's token management and sustainability initiatives.",
+      "tags": ["burn-pool", "community", "tokenomics"],
+      "status": "active"
+    },
+    {
+      "id": "steemstats",
+      "name": "SteemStats",
+      "managedBy": "@dhaka.witness",
+      "urls": {
+        "website": "https://discord.com/oauth2/authorize?client_id=1276922336842612777",
+        "app": "https://discord.com/oauth2/authorize?client_id=1276922336842612777"
+      },
+      "imageUrl": "https://steemitimages.com/u/dhaka.witness/avatar",
+      "about": "SteemStats is a Discord bot application that provides Steem blockchain statistics and analytics directly within Discord communities.",
+      "tags": ["discord-bot", "analytics", "statistics"],
+      "status": "active"
+    },
+    {
+      "id": "steemmaze",
+      "name": "SteemMaze",
+      "managedBy": "@dhaka.witness",
+      "urls": {
+        "website": "https://maze.steemblocks.com/",
+        "app": "https://maze.steemblocks.com/"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/Steemblocks/SteemMaze/refs/heads/main/public/logo.png",
+      "about": "SteemMaze is an interactive maze game built on the Steem blockchain, offering gameplay and blockchain integration for the Steem community.",
+      "tags": ["gaming", "maze", "interactive"],
+      "status": "active"
+    },
+    {
       "id": "hariraid",
       "name": "Hari Raid",
       "managedBy": "@h4lab",
