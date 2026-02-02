@@ -94,6 +94,19 @@
       "status": "active"
     },
     {
+      "id": "cur8games",
+      "name": "Cur8 Games",
+      "managedBy": "@cur8",
+      "urls": {
+        "website": "https://games.cur8.fun/",
+        "app": "https://games.cur8.fun/"
+      },
+      "imageUrl": "https://steemitimages.com/u/cur8/avatar",
+      "about": "Cur8 Games is a gaming platform built on Steem where players can enjoy arcade, card and casual games while earning rewards. Play, complete quests, level up your profile and compete in weekly leaderboards to earn Steem rewards.",
+      "tags": ["gaming", "steem", "arcade", "cards", "rewards"],
+      "status": "active"
+    },
+    {
       "id": "steemmaze",
       "name": "SteemMaze",
       "managedBy": "@dhaka.witness",
