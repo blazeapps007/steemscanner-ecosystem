@@ -189,8 +189,8 @@
       "name": "BlazedIt",
       "managedBy": "@blaze.apps",
       "urls": {
-        "website": "https://alpha.autoblaze.xyz",
-        "app": "https://alpha.autoblaze.xyz"
+        "website": "https://alpha.blazedit.xyz/",
+        "app": "https://alpha.blazedit.xyz/"
       },
       "imageUrl": "https://alpha.blazedit.xyz/fire-blazedit.svg",
       "about": "BlazedIt is a posting frontend and condenser for the Steem ecosystem focused on productivity.",
