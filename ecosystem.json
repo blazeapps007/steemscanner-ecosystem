@@ -195,7 +195,6 @@
       "imageUrl": "https://alpha.blazedit.xyz/fire-blazedit.svg",
       "about": "BlazedIt is a posting frontend and condenser for the Steem ecosystem focused on productivity.",
       "tags": ["posting", "frontend", "condenser", "productivity", "steemapp"],
-      "status": "alpha"
     }
   ]
 }
